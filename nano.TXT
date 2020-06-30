@@ -1,0 +1,1 @@
+nano is a command which is used to edit or append text to data in terminal in ubuntu.
